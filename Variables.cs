@@ -7,7 +7,8 @@ namespace Add
             int a=35;
             float b=12.5;
             char c = 'c';
-            string d = 'vaibhav';
+            string d = "vaibhav";
+            bool e =true;
         }
     }
 }
